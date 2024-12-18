@@ -15,23 +15,21 @@ try:
         table_data = []
         for item in data:
             table_data.append([
-                item.get('_id', 'N/A'),
-                item.get('id', 'N/A'),
-                item.get('downloaded_at', 'N/A'),
-                item.get('first_name', 'N/A'),
-                item.get('last_name', 'N/A'),
-                item.get('maiden_name', 'N/A'),
+                item.get('full_name', 'N/A'),
                 item.get('nickname', 'N/A'),
-                item.get('screen_name', 'N/A'),
-                item.get('status', 'N/A')
+                item.get('year_downloaded', 'N/A'),
+                item.get('month_downloaded', 'N/A'),
+                item.get('day_downloaded', 'N/A'),
+                item.get('downloaded_at', {}).get('$date', 'N/A')
             ])
 
         # Определяем заголовки таблицы
-        headers = [
-            '_ID', 'User ID', 'Downloaded At',
-            'First Name', 'Last Name', 'Maiden Name',
-            'Nickname', 'Screen Name', 'Status'
-        ]
+        headers = ['Full Name',
+                   'Nickname',
+                   'Year',
+                   'Month',
+                   'Day',
+                   'Downloaded At']
 
         # Выводим таблицу
         print(tabulate(table_data, headers=headers, tablefmt='grid'))
