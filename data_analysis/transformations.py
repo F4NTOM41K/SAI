@@ -27,3 +27,17 @@ def add_date_fields(item):
         item['year_downloaded'] = None
         item['month_downloaded'] = None
         item['day_downloaded'] = None
+
+
+def add_user_details(item, users_dict):
+    """
+    Добавляет дополнительные данные ('sex', 'bdate') из словаря пользователей по id.
+
+    :param item: Словарь с данными записи.
+    :param users_dict: Словарь, где ключ - 'id', значение - данные пользователя.
+    """
+    user_id = item.get('id')
+    if user_id and user_id in users_dict:
+        user_details = users_dict[user_id]
+        item['sex'] = user_details.get('sex')
+        item['bdate'] = user_details.get('bdate')

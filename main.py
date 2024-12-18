@@ -1,40 +1,58 @@
 from data_analysis.file_io import load_json, save_json
-from data_analysis.transformations import add_full_name, add_date_fields
+from data_analysis.transformations import add_full_name, add_date_fields, add_user_details
 from data_analysis.analysis import filter_empty_fields, count_field_values
 
-def main():
-    # Указываем пути к файлам
-    input_file = 'user_names.json'  # Исходный файл
-    output_file = 'processed_user_names.json'  # Итоговый файл
 
-    # Загружаем данные
+def main():
+    # Пути к файлам
+    input_file = 'user_names.json'  # Основной файл
+    users_file = 'users.json'  # Файл с дополнительной информацией о пользователях
+    output_file = 'filtered_user_names.json'  # Итоговый файл
+
+    # Чтение данных из файлов
     print("Чтение данных...")
     data = load_json(input_file)
+    users_data = load_json(users_file)
 
-    if data is None:
+    if data is None or users_data is None:
         print("Не удалось загрузить данные.")
         return
 
-    # Удаляем записи с пустыми значениями в указанных полях
-    required_fields = ['first_name', 'last_name', 'nickname']
+    # Проверка, что данные являются списками
+    if not isinstance(data, list) or not isinstance(users_data, list):
+        print("Ошибка: данные должны быть массивами объектов (списками).")
+        return
+
+    # Создание словаря пользователей для быстрого поиска
+    print("Создание словаря пользователей...")
+    users_dict = {user['id']: user for user in users_data if 'id' in user}
+
+    # Фильтрация записей с пустыми полями
     print("Фильтрация данных...")
+    required_fields = ['first_name', 'last_name', 'nickname']
     filtered_data, empty_counts = filter_empty_fields(data, required_fields)
 
-    # Добавляем производные данные
+    # Добавление производных данных
     print("Добавление производных данных...")
     for item in filtered_data:
-        add_full_name(item)
-        add_date_fields(item)
+        add_full_name(item)  # Добавление полного имени
+        add_date_fields(item)  # Извлечение временных данных
+        add_user_details(item, users_dict)  # Добавление пола и даты рождения
 
-    # Сохраняем результат
+        # Отладочная информация
+        if item.get('sex') or item.get('bdate'):
+            print(
+                f"ID {item.get('id')}: Пол - {item.get('sex')}, День рождения - {item.get('bdate')}")
+
+    # Сохранение обработанных данных в новый файл
     print("Сохранение обработанных данных...")
     save_json(filtered_data, output_file)
 
-    # Анализ данных: подсчёт частотности по полю 'nickname'
+    # Анализ данных: частотность никнеймов
     print("Анализ данных...")
     nickname_frequencies = count_field_values(filtered_data, 'nickname')
 
-    # Вывод результатов
+    # Вывод статистики
     print("\nСтатистика обработки:")
     print(f"Обработано записей: {len(data)}")
     print(f"Удалено записей: {len(data) - len(filtered_data)}")
@@ -47,9 +65,11 @@ def main():
 
     print(f"\nОбработанные данные сохранены в файл: {output_file}")
 
+
 # Запуск программы
 if __name__ == "__main__":
     main()
+
 
 
 # import json
