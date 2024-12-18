@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 
 # Пути к файлам
 input_file = 'user_names.json'
@@ -9,7 +10,6 @@ try:
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
-    # Проверяем, является ли объект списком (массив объектов)
     if isinstance(data, list):
         initial_count = len(data)
 
@@ -18,14 +18,15 @@ try:
         empty_last_name_count = 0
         empty_nickname_count = 0
 
-        # Фильтрация записей
+        # Фильтрация записей и добавление производных данных
         filtered_data = []
         for item in data:
+            # Проверяем пустые поля
             first_name = item.get('first_name')
             last_name = item.get('last_name')
             nickname = item.get('nickname')
 
-            # Считаем, если поле пустое
+            # Увеличиваем счётчики, если поле пустое
             if not first_name:
                 empty_first_name_count += 1
             if not last_name:
@@ -33,15 +34,41 @@ try:
             if not nickname:
                 empty_nickname_count += 1
 
-            # Добавляем запись, если все поля заполнены
-            if first_name and last_name and nickname:
-                filtered_data.append(item)
+            # Пропускаем запись, если хотя бы одно поле пустое
+            if not first_name or not last_name or not nickname:
+                continue
 
-        # Запись отфильтрованных данных в новый файл
+            # Обрабатываем full_name
+            first_name = first_name.strip() if isinstance(first_name, str) else ''
+            last_name = last_name.strip() if isinstance(last_name, str) else ''
+            item['full_name'] = f"{first_name} {last_name}".strip()
+
+            # Обрабатываем временные данные
+            downloaded_at = item.get('downloaded_at', {}).get('$date')
+            if downloaded_at:
+                try:
+                    downloaded_date = datetime.strptime(downloaded_at, "%Y-%m-%dT%H:%M:%S.%fZ")
+                    item['year_downloaded'] = downloaded_date.year
+                    item['month_downloaded'] = downloaded_date.month
+                    item['day_downloaded'] = downloaded_date.day
+                except ValueError:
+                    item['year_downloaded'] = None
+                    item['month_downloaded'] = None
+                    item['day_downloaded'] = None
+            else:
+                item['year_downloaded'] = None
+                item['month_downloaded'] = None
+                item['day_downloaded'] = None
+
+            # Добавляем запись в список, если она прошла все проверки
+            filtered_data.append(item)
+
+        final_count = len(filtered_data)
+        removed_count = initial_count - final_count
+
+        # Запись отфильтрованных данных с производными полями в новый файл
         with open(output_file, 'w', encoding='utf-8') as out_file:
             json.dump(filtered_data, out_file, ensure_ascii=False, indent=4)
-
-        removed_count = initial_count - len(filtered_data)
 
         # Вывод статистики
         print(f"Обработано записей: {initial_count}")
