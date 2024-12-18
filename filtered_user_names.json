@@ -16,7 +16,9 @@
         "full_name": "Artyom Kodintsev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "26.9.1985"
     },
     {
         "_id": {
@@ -35,7 +37,9 @@
         "full_name": "Ocharovashka^ Naumova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -54,7 +58,9 @@
         "full_name": "Anton Doronin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "30.6.2000"
     },
     {
         "_id": {
@@ -73,7 +79,9 @@
         "full_name": "Darya Volkova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "5.12.1992"
     },
     {
         "_id": {
@@ -92,7 +100,9 @@
         "full_name": "Edik Sariev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -111,7 +121,9 @@
         "full_name": "Grigory Πrivalov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -130,7 +142,9 @@
         "full_name": "Sanek Shkabatura",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "22.4.1997"
     },
     {
         "_id": {
@@ -149,7 +163,9 @@
         "full_name": "Μarina Μartynova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.11"
     },
     {
         "_id": {
@@ -168,7 +184,9 @@
         "full_name": "Zhenya Efimov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -187,7 +205,9 @@
         "full_name": "Vyacheslav Stalker",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -206,7 +226,9 @@
         "full_name": "Zhdzh Zhdzhd",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.1.1973"
     },
     {
         "_id": {
@@ -225,7 +247,9 @@
         "full_name": "Paolo Argenton",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -244,7 +268,9 @@
         "full_name": "Vladislav Nikitin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "24.1.1996"
     },
     {
         "_id": {
@@ -263,7 +289,9 @@
         "full_name": "Vika Zemlyanika",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "12.9.1998"
     },
     {
         "_id": {
@@ -282,7 +310,9 @@
         "full_name": "Zhenya Morozov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -301,7 +331,9 @@
         "full_name": "Lyazzat Kusmnova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -320,7 +352,9 @@
         "full_name": "Sanya Kryuchkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.7"
     },
     {
         "_id": {
@@ -339,7 +373,9 @@
         "full_name": "Ivan Veredin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -358,7 +394,9 @@
         "full_name": "Nikita Gordovsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -377,7 +415,9 @@
         "full_name": "Sergey Πetrov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.10"
     },
     {
         "_id": {
@@ -396,7 +436,9 @@
         "full_name": "Sean Waltman",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "13.7.1972"
     },
     {
         "_id": {
@@ -415,7 +457,9 @@
         "full_name": "[ Linov]",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "29.6"
     },
     {
         "_id": {
@@ -434,7 +478,9 @@
         "full_name": "Raif Nureev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.1.1990"
     },
     {
         "_id": {
@@ -453,7 +499,9 @@
         "full_name": "Ayvpi Pvai",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -472,7 +520,9 @@
         "full_name": "Dimitry Sergeevich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -491,7 +541,9 @@
         "full_name": "Olga Antonova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -510,7 +562,9 @@
         "full_name": "Denis Mokretsov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "11.4"
     },
     {
         "_id": {
@@ -529,7 +583,9 @@
         "full_name": "Nikita Zotov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -548,7 +604,9 @@
         "full_name": "Dmitry Khabachkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -567,7 +625,9 @@
         "full_name": "Nikolay Cheban",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "20.3.1992"
     },
     {
         "_id": {
@@ -586,7 +646,9 @@
         "full_name": "Viktor Mamaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "2.12"
     },
     {
         "_id": {
@@ -605,7 +667,9 @@
         "full_name": "Mila Milaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -624,7 +688,9 @@
         "full_name": "Larisa Petukhova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "23.5.1967"
     },
     {
         "_id": {
@@ -643,7 +709,9 @@
         "full_name": "Olya Olya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -662,7 +730,9 @@
         "full_name": "Slipka Maggot",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -681,7 +751,9 @@
         "full_name": "Marina Kostyukovich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -700,7 +772,9 @@
         "full_name": "Ilya Kononov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "16.6.1999"
     },
     {
         "_id": {
@@ -719,7 +793,9 @@
         "full_name": "Alyusichka Panova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "8.4"
     },
     {
         "_id": {
@@ -738,7 +814,9 @@
         "full_name": "Demian Cronnen",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -757,7 +835,9 @@
         "full_name": "Valery Noskov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.8.1974"
     },
     {
         "_id": {
@@ -776,7 +856,9 @@
         "full_name": "Maria Debera",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "23.12.1976"
     },
     {
         "_id": {
@@ -795,7 +877,9 @@
         "full_name": "Andrey Bazinsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.10.1990"
     },
     {
         "_id": {
@@ -814,7 +898,9 @@
         "full_name": "Artem Suvorov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.3.1998"
     },
     {
         "_id": {
@@ -833,7 +919,9 @@
         "full_name": "Vikuska Kovalchuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "9.2"
     },
     {
         "_id": {
@@ -852,7 +940,9 @@
         "full_name": "Alsa Alsa",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -871,7 +961,9 @@
         "full_name": "Vilayat Mamedov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.10.1977"
     },
     {
         "_id": {
@@ -890,7 +982,9 @@
         "full_name": "Viktoria Alexeeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.6.1996"
     },
     {
         "_id": {
@@ -909,7 +1003,9 @@
         "full_name": "Kelli Allaverdyants",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "24.8.1995"
     },
     {
         "_id": {
@@ -928,7 +1024,9 @@
         "full_name": "Merabi Dukashvili",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -947,7 +1045,9 @@
         "full_name": "Sveta Taran",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "31.3.1970"
     },
     {
         "_id": {
@@ -966,7 +1066,9 @@
         "full_name": "Lika Zakharova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -985,7 +1087,9 @@
         "full_name": "Lyublyu ...",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1004,7 +1108,9 @@
         "full_name": "Ekaterina Alexashkina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.3"
     },
     {
         "_id": {
@@ -1023,7 +1129,9 @@
         "full_name": "Yulia Fyodorova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "14.2.1974"
     },
     {
         "_id": {
@@ -1042,7 +1150,9 @@
         "full_name": "Fofan Maximov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "16.6"
     },
     {
         "_id": {
@@ -1061,7 +1171,9 @@
         "full_name": "Semyon Melyokhin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "11.3.1994"
     },
     {
         "_id": {
@@ -1080,7 +1192,9 @@
         "full_name": "Anastasia Popova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1099,7 +1213,9 @@
         "full_name": "Katya Zabyla",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1118,7 +1234,9 @@
         "full_name": "Dmitry Popovich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1137,7 +1255,9 @@
         "full_name": "Sergey Korsun",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1156,7 +1276,9 @@
         "full_name": "Kamshat Kolisenova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1175,7 +1297,9 @@
         "full_name": "Alexander Novikov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "25.11.1980"
     },
     {
         "_id": {
@@ -1194,7 +1318,9 @@
         "full_name": "Elena Makarova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.5.1990"
     },
     {
         "_id": {
@@ -1213,7 +1339,9 @@
         "full_name": "Viktoria Kovalyova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1232,7 +1360,9 @@
         "full_name": "Leila Leila",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1251,7 +1381,9 @@
         "full_name": "Anton Sychyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "12.1.1981"
     },
     {
         "_id": {
@@ -1270,7 +1402,9 @@
         "full_name": "Evgeny Moiseev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "6.8.1973"
     },
     {
         "_id": {
@@ -1289,7 +1423,9 @@
         "full_name": "Dasa Kotya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1308,7 +1444,9 @@
         "full_name": "Alexey Safonov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.1.1983"
     },
     {
         "_id": {
@@ -1327,7 +1465,9 @@
         "full_name": "Valik Morozov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "5.1.1986"
     },
     {
         "_id": {
@@ -1346,7 +1486,9 @@
         "full_name": "Evgeny Chepelev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.7.1991"
     },
     {
         "_id": {
@@ -1365,7 +1507,9 @@
         "full_name": "Masha Tanya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1384,7 +1528,9 @@
         "full_name": "Nadya Utyaganova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.2"
     },
     {
         "_id": {
@@ -1403,7 +1549,9 @@
         "full_name": "Mohamed Elmeligy",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1422,7 +1570,9 @@
         "full_name": "Olga Romanova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.5"
     },
     {
         "_id": {
@@ -1441,7 +1591,9 @@
         "full_name": "Azizbek Saidov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1460,7 +1612,9 @@
         "full_name": "Ilyas Fakhriev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.4.2001"
     },
     {
         "_id": {
@@ -1479,7 +1633,9 @@
         "full_name": "Natalya Nikolaeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.10.1961"
     },
     {
         "_id": {
@@ -1498,7 +1654,9 @@
         "full_name": "One One team",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1517,7 +1675,9 @@
         "full_name": "Alyona Ryabitskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "11.7.1984"
     },
     {
         "_id": {
@@ -1536,7 +1696,9 @@
         "full_name": "Semyon Neymann",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "22.4"
     },
     {
         "_id": {
@@ -1555,7 +1717,9 @@
         "full_name": "Oksana Gotsulyak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "22.7.1968"
     },
     {
         "_id": {
@@ -1574,7 +1738,9 @@
         "full_name": "Svetlana Mikhaylova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "24.3.1963"
     },
     {
         "_id": {
@@ -1593,7 +1759,9 @@
         "full_name": "No Name",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.5"
     },
     {
         "_id": {
@@ -1612,7 +1780,9 @@
         "full_name": "Menya Chubaka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.9.1952"
     },
     {
         "_id": {
@@ -1631,7 +1801,9 @@
         "full_name": "Irina Ivanova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.10.1995"
     },
     {
         "_id": {
@@ -1650,7 +1822,9 @@
         "full_name": "New Yuppi",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1669,7 +1843,9 @@
         "full_name": "Ivan Markin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "6.8.1986"
     },
     {
         "_id": {
@@ -1688,7 +1864,9 @@
         "full_name": "Vitalik Teplyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "6.8"
     },
     {
         "_id": {
@@ -1707,7 +1885,9 @@
         "full_name": "Ruslan Parfyonenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1726,7 +1906,9 @@
         "full_name": "Sasha Zhitkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1745,7 +1927,9 @@
         "full_name": "Poyraz Acar",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1764,7 +1948,9 @@
         "full_name": "Dashunka Volskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1783,7 +1969,9 @@
         "full_name": "Denis Pigasov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1802,7 +1990,9 @@
         "full_name": "Lera Kozlova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "22.1.1988"
     },
     {
         "_id": {
@@ -1821,7 +2011,9 @@
         "full_name": "Olga Plakhina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1840,7 +2032,9 @@
         "full_name": "Javascript: Javascript: this.disabled=true;",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1859,7 +2053,9 @@
         "full_name": "Alyona Sled",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "19.9.1988"
     },
     {
         "_id": {
@@ -1878,7 +2074,9 @@
         "full_name": "Βyacheslav Μartynov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1897,7 +2095,9 @@
         "full_name": "Zoryana Vitalivna",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.5.1992"
     },
     {
         "_id": {
@@ -1916,7 +2116,9 @@
         "full_name": "Kristinka Gromova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "20.7"
     },
     {
         "_id": {
@@ -1935,7 +2137,9 @@
         "full_name": "Artemka Pyanenky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -1954,7 +2158,9 @@
         "full_name": "Anastasia Savelyeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "21.9.1996"
     },
     {
         "_id": {
@@ -1973,7 +2179,9 @@
         "full_name": "Valeria Savitskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -1992,7 +2200,9 @@
         "full_name": "Max Tsvily",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.6"
     },
     {
         "_id": {
@@ -2011,7 +2221,9 @@
         "full_name": "Ksyusha Kulish",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "27.1.1992"
     },
     {
         "_id": {
@@ -2030,7 +2242,9 @@
         "full_name": "Mikhail Fedorov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2049,7 +2263,9 @@
         "full_name": "Misha Stepanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "21.10.1984"
     },
     {
         "_id": {
@@ -2068,7 +2284,9 @@
         "full_name": "Daliborka Radenovic",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.7.1981"
     },
     {
         "_id": {
@@ -2087,7 +2305,9 @@
         "full_name": "Ruslan Korotkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2106,7 +2326,9 @@
         "full_name": "Sergey Rakitov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2125,7 +2347,9 @@
         "full_name": "Konstantin Ressler",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "26.11.1974"
     },
     {
         "_id": {
@@ -2144,7 +2368,9 @@
         "full_name": "Alexander Rezonov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "23.2.1985"
     },
     {
         "_id": {
@@ -2163,7 +2389,9 @@
         "full_name": "Maxim Kuzminav",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "9.9.2000"
     },
     {
         "_id": {
@@ -2182,7 +2410,9 @@
         "full_name": "Viktor Brilyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.7.1982"
     },
     {
         "_id": {
@@ -2201,7 +2431,9 @@
         "full_name": "Sergey Ivanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.10.1986"
     },
     {
         "_id": {
@@ -2220,7 +2452,9 @@
         "full_name": "Sergey Ershov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.7"
     },
     {
         "_id": {
@@ -2239,7 +2473,9 @@
         "full_name": "Zheka Timoshenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.7.1984"
     },
     {
         "_id": {
@@ -2258,7 +2494,9 @@
         "full_name": "Katyusha Love",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "23.9.1986"
     },
     {
         "_id": {
@@ -2277,7 +2515,9 @@
         "full_name": "Vlad Smolyaninov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2296,7 +2536,9 @@
         "full_name": "Eldar Gibadullin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2315,7 +2557,9 @@
         "full_name": "Shohruhbek Mirabrorov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "7.2.1992"
     },
     {
         "_id": {
@@ -2334,7 +2578,9 @@
         "full_name": "Ivan Degtyaryov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2353,7 +2599,9 @@
         "full_name": "Alexey Menshikov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.3.1988"
     },
     {
         "_id": {
@@ -2372,7 +2620,9 @@
         "full_name": "Dmitry Kazakov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "10.9.1993"
     },
     {
         "_id": {
@@ -2391,7 +2641,9 @@
         "full_name": "Misha Shpilchyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.6.1998"
     },
     {
         "_id": {
@@ -2410,7 +2662,9 @@
         "full_name": "Alinka:* Malinka:)",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "31.5"
     },
     {
         "_id": {
@@ -2429,7 +2683,9 @@
         "full_name": "Valentina Medvedeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.2.1991"
     },
     {
         "_id": {
@@ -2448,7 +2704,9 @@
         "full_name": "Transerfing Ufe",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.2.1988"
     },
     {
         "_id": {
@@ -2467,7 +2725,9 @@
         "full_name": "Larisa Rybalko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "26.1"
     },
     {
         "_id": {
@@ -2486,7 +2746,9 @@
         "full_name": "Arti Fakt",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2505,7 +2767,9 @@
         "full_name": "Olga Fomicheva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -2524,7 +2788,9 @@
         "full_name": "Evgeny Larin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "7.9.1993"
     },
     {
         "_id": {
@@ -2543,7 +2809,9 @@
         "full_name": "Savanoris Gedas",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -2562,7 +2830,9 @@
         "full_name": "Golubaya Pugovka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "5.1.1993"
     },
     {
         "_id": {
@@ -2581,7 +2851,9 @@
         "full_name": "Lyudmila Muzyka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.12"
     },
     {
         "_id": {
@@ -2600,7 +2872,9 @@
         "full_name": "Lera Solntse",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "11.5"
     },
     {
         "_id": {
@@ -2619,7 +2893,9 @@
         "full_name": "Anyuta Sharapova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "1.12"
     },
     {
         "_id": {
@@ -2638,7 +2914,9 @@
         "full_name": "Svetlana Kostareva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "18.2.1955"
     },
     {
         "_id": {
@@ -2657,7 +2935,9 @@
         "full_name": "Inna Kravchuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "3.7"
     },
     {
         "_id": {
@@ -2676,7 +2956,9 @@
         "full_name": "Igor Vagonsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "29.1.1992"
     },
     {
         "_id": {
@@ -2695,7 +2977,9 @@
         "full_name": "Sukhrab Wrestler",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "19.11.1993"
     },
     {
         "_id": {
@@ -2714,7 +2998,9 @@
         "full_name": "Evgeny Sokolov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.2.1988"
     },
     {
         "_id": {
@@ -2733,7 +3019,9 @@
         "full_name": "Solt Voin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "13.4.1992"
     },
     {
         "_id": {
@@ -2752,7 +3040,9 @@
         "full_name": "Beatka Super",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -2771,7 +3061,9 @@
         "full_name": "Anatoly Dudkin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2790,7 +3082,9 @@
         "full_name": "Rimma Serebryannaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "11.11.1989"
     },
     {
         "_id": {
@@ -2809,7 +3103,9 @@
         "full_name": "Elvira Ruzel",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2828,7 +3124,9 @@
         "full_name": "Emo ....",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2847,7 +3145,9 @@
         "full_name": "Sofia Gordykh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.5"
     },
     {
         "_id": {
@@ -2866,7 +3166,9 @@
         "full_name": "Mashka Goslar",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "1.4.1995"
     },
     {
         "_id": {
@@ -2885,7 +3187,9 @@
         "full_name": "Alexander Makushenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.11.1988"
     },
     {
         "_id": {
@@ -2904,7 +3208,9 @@
         "full_name": "Konstantin Karasyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -2923,7 +3229,9 @@
         "full_name": "Andrey Leykht",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.3.1995"
     },
     {
         "_id": {
@@ -2942,7 +3250,9 @@
         "full_name": "Dasha Grechko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.6.1984"
     },
     {
         "_id": {
@@ -2961,7 +3271,9 @@
         "full_name": "Svetka Tolkacheva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.7"
     },
     {
         "_id": {
@@ -2980,7 +3292,9 @@
         "full_name": "Αnna Τarasova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -2999,7 +3313,9 @@
         "full_name": "Karina Olandaryova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "30.5"
     },
     {
         "_id": {
@@ -3018,7 +3334,9 @@
         "full_name": "Dmitry Ivchenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3037,7 +3355,9 @@
         "full_name": "Elena Tarasenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3056,7 +3376,9 @@
         "full_name": "Igor Gardt",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "19.3.1989"
     },
     {
         "_id": {
@@ -3075,7 +3397,9 @@
         "full_name": "Olga Doroshina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.6.1991"
     },
     {
         "_id": {
@@ -3094,7 +3418,9 @@
         "full_name": "Μikhail Κorolev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "22.12.1991"
     },
     {
         "_id": {
@@ -3113,7 +3439,9 @@
         "full_name": "Viktoria Lubenets",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3132,7 +3460,9 @@
         "full_name": "Stanislav Marakulin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "21.6"
     },
     {
         "_id": {
@@ -3151,7 +3481,9 @@
         "full_name": "Maxim Pavlov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.1.1993"
     },
     {
         "_id": {
@@ -3170,7 +3502,9 @@
         "full_name": "Artemy Ryabov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "12.1"
     },
     {
         "_id": {
@@ -3189,7 +3523,9 @@
         "full_name": "Mika Yunusoeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3208,7 +3544,9 @@
         "full_name": "Artyom Artyom",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "25.4.1990"
     },
     {
         "_id": {
@@ -3227,7 +3565,9 @@
         "full_name": "Valentina Nikitchuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.3.1994"
     },
     {
         "_id": {
@@ -3246,7 +3586,9 @@
         "full_name": "Vovan Zarubanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3265,7 +3607,9 @@
         "full_name": "Mr Lamperouge",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "11.5.1990"
     },
     {
         "_id": {
@@ -3284,7 +3628,9 @@
         "full_name": "Nikolay Egorov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.4.1972"
     },
     {
         "_id": {
@@ -3303,7 +3649,9 @@
         "full_name": "Roma Roma",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.1"
     },
     {
         "_id": {
@@ -3322,7 +3670,9 @@
         "full_name": "Pavel Olifirenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "2.3"
     },
     {
         "_id": {
@@ -3341,7 +3691,9 @@
         "full_name": "Masha Zavorutnyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3360,7 +3712,9 @@
         "full_name": "Prost Kuzovleva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3379,7 +3733,9 @@
         "full_name": "Olga Dvoryanskikh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.10"
     },
     {
         "_id": {
@@ -3398,7 +3754,9 @@
         "full_name": "Marinochka Gerasimova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "8.5.1992"
     },
     {
         "_id": {
@@ -3417,7 +3775,9 @@
         "full_name": "Tanya Boyechko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "27.1.1995"
     },
     {
         "_id": {
@@ -3436,7 +3796,9 @@
         "full_name": "Vikont Pudelenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "19.11.1999"
     },
     {
         "_id": {
@@ -3455,7 +3817,9 @@
         "full_name": "Alexander Kosorukikh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.1.1984"
     },
     {
         "_id": {
@@ -3474,7 +3838,9 @@
         "full_name": "Alek Bazyanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "26.10.1963"
     },
     {
         "_id": {
@@ -3493,7 +3859,9 @@
         "full_name": "Vera Izotova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.8.1955"
     },
     {
         "_id": {
@@ -3512,7 +3880,9 @@
         "full_name": "Ichik Shkirchi",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3531,7 +3901,9 @@
         "full_name": "Anton Petrov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "15.10.1990"
     },
     {
         "_id": {
@@ -3550,7 +3922,9 @@
         "full_name": "Sonya Sharipova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.9.1988"
     },
     {
         "_id": {
@@ -3569,7 +3943,9 @@
         "full_name": "Evgeny Brichkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3588,7 +3964,9 @@
         "full_name": "Roman Mutovkin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3607,7 +3985,9 @@
         "full_name": "Marina Kretova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "3.9"
     },
     {
         "_id": {
@@ -3626,7 +4006,9 @@
         "full_name": "Alyona Tkachuk (polyakova)",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "24.10.1979"
     },
     {
         "_id": {
@@ -3645,7 +4027,9 @@
         "full_name": "Roman Vilyems",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3664,7 +4048,9 @@
         "full_name": "Vladimir Grishin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "7.1.1951"
     },
     {
         "_id": {
@@ -3683,7 +4069,9 @@
         "full_name": "Evgenia Razheva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "26.7"
     },
     {
         "_id": {
@@ -3702,7 +4090,9 @@
         "full_name": "Oksana Oksana",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3721,7 +4111,9 @@
         "full_name": "Maxim Maxim",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "23.6.1993"
     },
     {
         "_id": {
@@ -3740,7 +4132,9 @@
         "full_name": "Vitaly Barchan",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.1"
     },
     {
         "_id": {
@@ -3759,7 +4153,9 @@
         "full_name": "Sery Solovyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3778,7 +4174,9 @@
         "full_name": "Yaroslav Komkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.12"
     },
     {
         "_id": {
@@ -3797,7 +4195,9 @@
         "full_name": "Gorou Rebellion",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3816,7 +4216,9 @@
         "full_name": "Maxim Maximus",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "5.2"
     },
     {
         "_id": {
@@ -3835,7 +4237,9 @@
         "full_name": "Elena Pirminova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3854,7 +4258,9 @@
         "full_name": "Lyudmila Marchenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -3873,7 +4279,9 @@
         "full_name": "Sasha Misevich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -3892,7 +4300,9 @@
         "full_name": "Glaza Glaza",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.9.1920"
     },
     {
         "_id": {
@@ -3911,7 +4321,9 @@
         "full_name": "Anzhela Rudenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.4.1995"
     },
     {
         "_id": {
@@ -3930,7 +4342,9 @@
         "full_name": "Polina Gorbunova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "21.5.2000"
     },
     {
         "_id": {
@@ -3949,7 +4363,9 @@
         "full_name": "Tanechka Patlavskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "3.4"
     },
     {
         "_id": {
@@ -3968,7 +4384,9 @@
         "full_name": "Lidia Lisenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "24.6.1992"
     },
     {
         "_id": {
@@ -3987,7 +4405,9 @@
         "full_name": "Psikh Psikh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4006,7 +4426,9 @@
         "full_name": "Marina Fedotova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "20.10.1975"
     },
     {
         "_id": {
@@ -4025,7 +4447,9 @@
         "full_name": "Faker Bess",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4044,7 +4468,9 @@
         "full_name": "Anna Evgenyeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -4063,7 +4489,9 @@
         "full_name": "Kovrolin Linoleum",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.1.1999"
     },
     {
         "_id": {
@@ -4082,7 +4510,9 @@
         "full_name": "Lyudmila Radosteva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "14.11.1998"
     },
     {
         "_id": {
@@ -4101,7 +4531,9 @@
         "full_name": "Irina Antonets",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "1.11.1977"
     },
     {
         "_id": {
@@ -4120,7 +4552,9 @@
         "full_name": "Nina Alysheva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.2.1987"
     },
     {
         "_id": {
@@ -4139,7 +4573,9 @@
         "full_name": "Zinaida Kravchuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.12.1954"
     },
     {
         "_id": {
@@ -4158,7 +4594,9 @@
         "full_name": "Emo Girl",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.1"
     },
     {
         "_id": {
@@ -4177,7 +4615,9 @@
         "full_name": "Ruslan Sadretdinov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.10.2000"
     },
     {
         "_id": {
@@ -4196,7 +4636,9 @@
         "full_name": "Dmitry Parichuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.9.1978"
     },
     {
         "_id": {
@@ -4215,7 +4657,9 @@
         "full_name": "Alexey Grosh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.3"
     },
     {
         "_id": {
@@ -4234,7 +4678,9 @@
         "full_name": "Elena Domnina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.3.1963"
     },
     {
         "_id": {
@@ -4253,7 +4699,9 @@
         "full_name": "Artyom Sychyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.6"
     },
     {
         "_id": {
@@ -4272,7 +4720,9 @@
         "full_name": "Lenok Platukhina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.3"
     },
     {
         "_id": {
@@ -4291,7 +4741,9 @@
         "full_name": "Sofia Karalyova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.8.1986"
     },
     {
         "_id": {
@@ -4310,7 +4762,9 @@
         "full_name": "Dmitry Ηesterov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4329,7 +4783,9 @@
         "full_name": "Artur Lukyanenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "25.6"
     },
     {
         "_id": {
@@ -4348,7 +4804,9 @@
         "full_name": "Liana Kharisova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "30.1"
     },
     {
         "_id": {
@@ -4367,7 +4825,9 @@
         "full_name": "Liza Kopeykina!",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.7"
     },
     {
         "_id": {
@@ -4386,7 +4846,9 @@
         "full_name": "Nikolay Palyanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4405,7 +4867,9 @@
         "full_name": "|...kriss Star...|",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -4424,7 +4888,9 @@
         "full_name": "Oleg Ostrikov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "7.2.1965"
     },
     {
         "_id": {
@@ -4443,7 +4909,9 @@
         "full_name": "Slava Bosyak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "14.6"
     },
     {
         "_id": {
@@ -4462,7 +4930,9 @@
         "full_name": "Arseny Barannik",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.2.1997"
     },
     {
         "_id": {
@@ -4481,7 +4951,9 @@
         "full_name": "Maxim Lobozov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "24.7.1992"
     },
     {
         "_id": {
@@ -4500,7 +4972,9 @@
         "full_name": "Alyona Sergeevna",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.4"
     },
     {
         "_id": {
@@ -4519,7 +4993,9 @@
         "full_name": "Dedushka Moroz",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.1.1920"
     },
     {
         "_id": {
@@ -4538,7 +5014,9 @@
         "full_name": "Alenka Danyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4557,7 +5035,9 @@
         "full_name": "Milky Way",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -4576,7 +5056,9 @@
         "full_name": "Roma Edvards",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "2.2.1981"
     },
     {
         "_id": {
@@ -4595,7 +5077,9 @@
         "full_name": "Ilnar Gabitov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "21.4.1989"
     },
     {
         "_id": {
@@ -4614,7 +5098,9 @@
         "full_name": "Natasha Larina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "16.1"
     },
     {
         "_id": {
@@ -4633,7 +5119,9 @@
         "full_name": "Nastya Love",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4652,7 +5140,9 @@
         "full_name": "Sasha Laymova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "13.1"
     },
     {
         "_id": {
@@ -4671,7 +5161,9 @@
         "full_name": "Vikunya Vaschenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "19.4"
     },
     {
         "_id": {
@@ -4690,7 +5182,9 @@
         "full_name": "Marinka Ryzhova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "13.6"
     },
     {
         "_id": {
@@ -4709,7 +5203,9 @@
         "full_name": "Anyutochka Zaykina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.5"
     },
     {
         "_id": {
@@ -4728,7 +5224,9 @@
         "full_name": "Alexey Khudaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "30.6.1990"
     },
     {
         "_id": {
@@ -4747,7 +5245,9 @@
         "full_name": "Alexander Vitvitsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4766,7 +5266,9 @@
         "full_name": "Anastasia Vlasenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -4785,7 +5287,9 @@
         "full_name": "Grigory Πrivalov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4804,7 +5308,9 @@
         "full_name": "Alexey Bogdanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "8.7.1991"
     },
     {
         "_id": {
@@ -4823,7 +5329,9 @@
         "full_name": "Zhenechka Ogurtsova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "29.3.1989"
     },
     {
         "_id": {
@@ -4842,7 +5350,9 @@
         "full_name": "Eugene Chernyak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4861,7 +5371,9 @@
         "full_name": "Dzhonni Depp",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4880,7 +5392,9 @@
         "full_name": "Dima Bogoslavsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "25.7.1987"
     },
     {
         "_id": {
@@ -4899,7 +5413,9 @@
         "full_name": "Alisa Kingsli",
         "year_downloaded": null,
         "month_downloaded": null,
-        "day_downloaded": null
+        "day_downloaded": null,
+        "sex": 1,
+        "bdate": "23.5"
     },
     {
         "_id": {
@@ -4918,7 +5434,9 @@
         "full_name": "Yura Volobuev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.1.1966"
     },
     {
         "_id": {
@@ -4937,7 +5455,9 @@
         "full_name": "Yulya Samarina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.7.1989"
     },
     {
         "_id": {
@@ -4956,7 +5476,9 @@
         "full_name": "Don Echin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -4975,7 +5497,9 @@
         "full_name": "Simply Apocalypse",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "18.1.1997"
     },
     {
         "_id": {
@@ -4994,7 +5518,9 @@
         "full_name": "Ruslan Bartov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.1.1995"
     },
     {
         "_id": {
@@ -5013,7 +5539,9 @@
         "full_name": "Alexey Boradach",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5032,7 +5560,9 @@
         "full_name": "Niko Khaburzaniya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5051,7 +5581,9 @@
         "full_name": "Tatyana Galushko-Malykh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "30.3.1993"
     },
     {
         "_id": {
@@ -5070,7 +5602,9 @@
         "full_name": "Andriy Prodanyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "8.12"
     },
     {
         "_id": {
@@ -5089,7 +5623,9 @@
         "full_name": "Alexey Andreev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "9.5.1985"
     },
     {
         "_id": {
@@ -5108,7 +5644,9 @@
         "full_name": "Nadya Pilipishin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.9.1987"
     },
     {
         "_id": {
@@ -5127,7 +5665,9 @@
         "full_name": "Dasha Yashina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "27.1"
     },
     {
         "_id": {
@@ -5146,7 +5686,9 @@
         "full_name": "Bibinur Zhannazarova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "18.5"
     },
     {
         "_id": {
@@ -5165,7 +5707,9 @@
         "full_name": "Pavel Tyutyunik",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.6.1982"
     },
     {
         "_id": {
@@ -5184,7 +5728,9 @@
         "full_name": "Anastasia Kopylova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "15.6"
     },
     {
         "_id": {
@@ -5203,7 +5749,9 @@
         "full_name": "Illya Kullichkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "14.3.1988"
     },
     {
         "_id": {
@@ -5222,7 +5770,9 @@
         "full_name": "Den Argytin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.11"
     },
     {
         "_id": {
@@ -5241,7 +5791,9 @@
         "full_name": "Olenka Olenka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5260,7 +5812,9 @@
         "full_name": "Sasha Yanchenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.5.1997"
     },
     {
         "_id": {
@@ -5279,7 +5833,9 @@
         "full_name": "Kalyok Polyakov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "15.10"
     },
     {
         "_id": {
@@ -5298,7 +5854,9 @@
         "full_name": "Anton Manenkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.5.1980"
     },
     {
         "_id": {
@@ -5317,7 +5875,9 @@
         "full_name": "Alexander Petukhov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "23.5.1994"
     },
     {
         "_id": {
@@ -5336,7 +5896,9 @@
         "full_name": "Kirill Pronin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.12.1980"
     },
     {
         "_id": {
@@ -5355,7 +5917,9 @@
         "full_name": "Konstantin Lapin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.7.1994"
     },
     {
         "_id": {
@@ -5374,7 +5938,9 @@
         "full_name": "Oleg Stakhovsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "8.3.1991"
     },
     {
         "_id": {
@@ -5393,7 +5959,9 @@
         "full_name": "Tamaska Kozhenkova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.2.1997"
     },
     {
         "_id": {
@@ -5412,7 +5980,9 @@
         "full_name": "Best-Koresarimi In-The-World",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5431,7 +6001,9 @@
         "full_name": "Dasha Kopylova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.10.1991"
     },
     {
         "_id": {
@@ -5450,7 +6022,9 @@
         "full_name": "Ksu Hjh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5469,7 +6043,9 @@
         "full_name": "Timur Chyorny",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.4"
     },
     {
         "_id": {
@@ -5488,7 +6064,9 @@
         "full_name": "Alyona Bolshakova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "29.5"
     },
     {
         "_id": {
@@ -5507,7 +6085,9 @@
         "full_name": "Asanali Eszhanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5526,7 +6106,9 @@
         "full_name": "Josephine Kr",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.3"
     },
     {
         "_id": {
@@ -5545,7 +6127,9 @@
         "full_name": "Anastasia Vernikova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "4.12"
     },
     {
         "_id": {
@@ -5564,7 +6148,9 @@
         "full_name": "Anastasia Lobyreva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5583,7 +6169,9 @@
         "full_name": "[julia_ Tresh]",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5602,7 +6190,9 @@
         "full_name": "Anya Sivaeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5621,7 +6211,9 @@
         "full_name": "Yury Datskevich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5640,7 +6232,9 @@
         "full_name": "Polina Losko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.6.1998"
     },
     {
         "_id": {
@@ -5659,7 +6253,9 @@
         "full_name": "Anton Kirillin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "30.3.1993"
     },
     {
         "_id": {
@@ -5678,7 +6274,9 @@
         "full_name": "Anastasia Gromova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.10"
     },
     {
         "_id": {
@@ -5697,7 +6295,9 @@
         "full_name": "Lyudmila Saenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.8.1943"
     },
     {
         "_id": {
@@ -5716,7 +6316,9 @@
         "full_name": "Valentina Sergeeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5735,7 +6337,9 @@
         "full_name": "Katya Ryabova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5754,7 +6358,9 @@
         "full_name": "Roman Novak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5773,7 +6379,9 @@
         "full_name": "Vlad Ostapchyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5792,7 +6400,9 @@
         "full_name": "Andrey Dvornichenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "23.11.1992"
     },
     {
         "_id": {
@@ -5811,7 +6421,9 @@
         "full_name": "Roma Fedorenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.3.1994"
     },
     {
         "_id": {
@@ -5830,7 +6442,9 @@
         "full_name": "Alexander Shashko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -5849,7 +6463,9 @@
         "full_name": "Rolanda Lodun",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.9.1989"
     },
     {
         "_id": {
@@ -5868,7 +6484,9 @@
         "full_name": "Spencer Hastings",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5887,7 +6505,9 @@
         "full_name": "Vova Krupyak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "11.4"
     },
     {
         "_id": {
@@ -5906,7 +6526,9 @@
         "full_name": "Alexander Ostrelin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "8.8"
     },
     {
         "_id": {
@@ -5925,7 +6547,9 @@
         "full_name": "Ksenia Karrash",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "15.2"
     },
     {
         "_id": {
@@ -5944,7 +6568,9 @@
         "full_name": "Galina Bazarova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.12.1959"
     },
     {
         "_id": {
@@ -5963,7 +6589,9 @@
         "full_name": "Tatyana Bardymova ( Tanganova)",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -5982,7 +6610,9 @@
         "full_name": "Lui Graf-De-Byussi",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6001,7 +6631,9 @@
         "full_name": "Alyona Astafyeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.12.1989"
     },
     {
         "_id": {
@@ -6020,7 +6652,9 @@
         "full_name": "Egor Kolupaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6039,7 +6673,9 @@
         "full_name": "Anna Buzova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.8.1990"
     },
     {
         "_id": {
@@ -6058,7 +6694,9 @@
         "full_name": "Oleg Belousov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.5.1971"
     },
     {
         "_id": {
@@ -6077,7 +6715,9 @@
         "full_name": "Dina Sedova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "11.3"
     },
     {
         "_id": {
@@ -6096,7 +6736,9 @@
         "full_name": "Valentina Nikolaeva-Ryaguzova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "21.1.1962"
     },
     {
         "_id": {
@@ -6115,7 +6757,9 @@
         "full_name": "Nelli Gorshunova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "7.12"
     },
     {
         "_id": {
@@ -6134,7 +6778,9 @@
         "full_name": "Sergey Mazunov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "6.8"
     },
     {
         "_id": {
@@ -6153,7 +6799,9 @@
         "full_name": "☼ San ☼",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -6172,7 +6820,9 @@
         "full_name": "Maria Belyakova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "8.2"
     },
     {
         "_id": {
@@ -6191,7 +6841,9 @@
         "full_name": "Pikovaya Dama",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "2.3"
     },
     {
         "_id": {
@@ -6210,7 +6862,9 @@
         "full_name": "Ya Udalit Etu Str.",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6229,7 +6883,9 @@
         "full_name": "Svetlana Trapeznikova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "26.2.1980"
     },
     {
         "_id": {
@@ -6248,7 +6904,9 @@
         "full_name": "Dasha Petrova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.3.1993"
     },
     {
         "_id": {
@@ -6267,7 +6925,9 @@
         "full_name": "Karina Braym",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "11.7.1992"
     },
     {
         "_id": {
@@ -6286,7 +6946,9 @@
         "full_name": "Tatyana Nemtsova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "23.5.1977"
     },
     {
         "_id": {
@@ -6305,7 +6967,9 @@
         "full_name": "Evgeny Veryasov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6324,7 +6988,9 @@
         "full_name": "Darya Kryukova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "29.5.1990"
     },
     {
         "_id": {
@@ -6343,7 +7009,9 @@
         "full_name": "Igoryok Revyakin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "4.5"
     },
     {
         "_id": {
@@ -6362,7 +7030,9 @@
         "full_name": "Carlos Mendoza",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "6.6.1988"
     },
     {
         "_id": {
@@ -6381,7 +7051,9 @@
         "full_name": "Ivan Korepin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "2.3.1989"
     },
     {
         "_id": {
@@ -6400,7 +7072,9 @@
         "full_name": "Diskontnaya Student Tlt",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6419,7 +7093,9 @@
         "full_name": "Roma Romka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "12.3.1994"
     },
     {
         "_id": {
@@ -6438,7 +7114,9 @@
         "full_name": "Viktor Nikitin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "12.3.1960"
     },
     {
         "_id": {
@@ -6457,7 +7135,9 @@
         "full_name": "Marishka Ku",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "4.7.1988"
     },
     {
         "_id": {
@@ -6476,7 +7156,9 @@
         "full_name": "Natashka Sazonova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -6495,7 +7177,9 @@
         "full_name": "Natasha Kryzhanovskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "5.9.1991"
     },
     {
         "_id": {
@@ -6514,7 +7198,9 @@
         "full_name": "Nikolay Ugrinchuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "2.10.1988"
     },
     {
         "_id": {
@@ -6533,7 +7219,9 @@
         "full_name": "Amerkhan Tsuroev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "16.6.1980"
     },
     {
         "_id": {
@@ -6552,7 +7240,9 @@
         "full_name": "Dmitry Pyak",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.4"
     },
     {
         "_id": {
@@ -6571,7 +7261,9 @@
         "full_name": "Olga Dyatlova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "27.7"
     },
     {
         "_id": {
@@ -6590,7 +7282,9 @@
         "full_name": "Alexey Nektegyaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "15.12.1985"
     },
     {
         "_id": {
@@ -6609,7 +7303,9 @@
         "full_name": "Lera Lera",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -6628,7 +7324,9 @@
         "full_name": "Word Warcraft",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -6647,7 +7345,9 @@
         "full_name": "Nadezhda Erastova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "4.9"
     },
     {
         "_id": {
@@ -6666,7 +7366,9 @@
         "full_name": "Ne I Glupykh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6685,7 +7387,9 @@
         "full_name": "Vova Ilyin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "16.6"
     },
     {
         "_id": {
@@ -6704,7 +7408,9 @@
         "full_name": "Marina Khmelinina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "30.4.1986"
     },
     {
         "_id": {
@@ -6723,7 +7429,9 @@
         "full_name": "Maria Iskanderova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "18.10"
     },
     {
         "_id": {
@@ -6742,7 +7450,9 @@
         "full_name": "Nikita Bionov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6761,7 +7471,9 @@
         "full_name": "Sergey Vinnitsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "15.7.1989"
     },
     {
         "_id": {
@@ -6780,7 +7492,9 @@
         "full_name": "Maria Yanova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "28.8.1958"
     },
     {
         "_id": {
@@ -6799,7 +7513,9 @@
         "full_name": "Roman Konstantinov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "1.4.1970"
     },
     {
         "_id": {
@@ -6818,7 +7534,9 @@
         "full_name": "Angelina Vashurina",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -6837,7 +7555,9 @@
         "full_name": "Gennady Asoulyanov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -6856,7 +7576,9 @@
         "full_name": "Elena Nesterova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "16.3"
     },
     {
         "_id": {
@@ -6875,7 +7597,9 @@
         "full_name": "Katherine Pierce",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.11"
     },
     {
         "_id": {
@@ -6894,7 +7618,9 @@
         "full_name": "Alexander Perkov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "19.11.1986"
     },
     {
         "_id": {
@@ -6913,7 +7639,9 @@
         "full_name": "Konstantin Petrov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "11.4.1994"
     },
     {
         "_id": {
@@ -6932,7 +7660,9 @@
         "full_name": "Yulia Kononovich",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "31.7"
     },
     {
         "_id": {
@@ -6951,7 +7681,9 @@
         "full_name": "Dmitry Gutkovsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.2.1991"
     },
     {
         "_id": {
@@ -6970,7 +7702,9 @@
         "full_name": "Viktor Raguzin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.2.1990"
     },
     {
         "_id": {
@@ -6989,7 +7723,9 @@
         "full_name": "Yorha-No Type-S",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7008,7 +7744,9 @@
         "full_name": "Diana Kreyman",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "6.12"
     },
     {
         "_id": {
@@ -7027,7 +7765,9 @@
         "full_name": "Valeria Kozlova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "22.1.1988"
     },
     {
         "_id": {
@@ -7046,7 +7786,9 @@
         "full_name": "Anzhelika Klimenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "21.11"
     },
     {
         "_id": {
@@ -7065,7 +7807,9 @@
         "full_name": "Vanya Korzhukov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7084,7 +7828,9 @@
         "full_name": "Vitaly Seleznyov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "7.7.1989"
     },
     {
         "_id": {
@@ -7103,7 +7849,9 @@
         "full_name": "Ira Dyntu",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.10"
     },
     {
         "_id": {
@@ -7122,7 +7870,9 @@
         "full_name": "Maxim Fedorovykh",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "24.5.1987"
     },
     {
         "_id": {
@@ -7141,7 +7891,9 @@
         "full_name": "Alexander Kleshnin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "28.1.1976"
     },
     {
         "_id": {
@@ -7160,7 +7912,9 @@
         "full_name": "Alexander Fomin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "21.8"
     },
     {
         "_id": {
@@ -7179,7 +7933,9 @@
         "full_name": "Alexander Yanzhula",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "20.11"
     },
     {
         "_id": {
@@ -7198,7 +7954,9 @@
         "full_name": "Railya Salimkhanova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "15.5.1983"
     },
     {
         "_id": {
@@ -7217,7 +7975,9 @@
         "full_name": "Alexander Shtepa",
         "year_downloaded": null,
         "month_downloaded": null,
-        "day_downloaded": null
+        "day_downloaded": null,
+        "sex": 2,
+        "bdate": "22.5"
     },
     {
         "_id": {
@@ -7236,7 +7996,9 @@
         "full_name": "Ya Vsem Serdtsem",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7255,7 +8017,9 @@
         "full_name": "Buka Buka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7274,7 +8038,9 @@
         "full_name": "Nikolay Poponin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "17.12.1952"
     },
     {
         "_id": {
@@ -7293,7 +8059,9 @@
         "full_name": "Olga Kalinova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "19.6"
     },
     {
         "_id": {
@@ -7312,7 +8080,9 @@
         "full_name": "Dima Pachkovsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7331,7 +8101,9 @@
         "full_name": "Alexander Kovalevsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "12.2"
     },
     {
         "_id": {
@@ -7350,7 +8122,9 @@
         "full_name": "Vanilla Bob",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7369,7 +8143,9 @@
         "full_name": "Sergey Sovetkin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "14.12.1991"
     },
     {
         "_id": {
@@ -7388,7 +8164,9 @@
         "full_name": "Arkady Froyants",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7407,7 +8185,9 @@
         "full_name": "Diana Podyalova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.12.1994"
     },
     {
         "_id": {
@@ -7426,7 +8206,9 @@
         "full_name": "Artur Mikhaylyuk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.3.1992"
     },
     {
         "_id": {
@@ -7445,7 +8227,9 @@
         "full_name": "Olesya Volskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "10.8.1987"
     },
     {
         "_id": {
@@ -7464,7 +8248,9 @@
         "full_name": "Dimon Kazantsev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.8"
     },
     {
         "_id": {
@@ -7483,7 +8269,9 @@
         "full_name": "Alexander Tikhonov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "19.12"
     },
     {
         "_id": {
@@ -7502,7 +8290,9 @@
         "full_name": "Nastenka Sivaeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -7521,7 +8311,9 @@
         "full_name": "Lizochka Nyashechka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "23.5.1989"
     },
     {
         "_id": {
@@ -7540,7 +8332,9 @@
         "full_name": "Ursus Lats",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7559,7 +8353,9 @@
         "full_name": "Yury Khmelevsky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7578,7 +8374,9 @@
         "full_name": "Roman Smirnov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "8.6"
     },
     {
         "_id": {
@@ -7597,7 +8395,9 @@
         "full_name": "Albina Gimranova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -7616,7 +8416,9 @@
         "full_name": "Tatyana Mikheeva",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "5.8.1963"
     },
     {
         "_id": {
@@ -7635,7 +8437,9 @@
         "full_name": "Persik Persenko",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "22.9"
     },
     {
         "_id": {
@@ -7654,7 +8458,9 @@
         "full_name": "Dzheki Shpits",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7673,7 +8479,9 @@
         "full_name": "Le Le viagra",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7692,7 +8500,9 @@
         "full_name": "Alexander Vostrov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7711,7 +8521,9 @@
         "full_name": "Kotya Myagky",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "10.7"
     },
     {
         "_id": {
@@ -7730,7 +8542,9 @@
         "full_name": "Alexander Nikolaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "15.4"
     },
     {
         "_id": {
@@ -7749,7 +8563,9 @@
         "full_name": "Dmitry Kozlov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "21.11.1988"
     },
     {
         "_id": {
@@ -7768,7 +8584,9 @@
         "full_name": "Mikhail Mikhaylov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7787,7 +8605,9 @@
         "full_name": "Alexander Leopardov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7806,7 +8626,9 @@
         "full_name": "Romess Lovelas",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7825,7 +8647,9 @@
         "full_name": "Svetlana Romanova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "17.7"
     },
     {
         "_id": {
@@ -7844,7 +8668,9 @@
         "full_name": "Vova Cheban",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "29.8"
     },
     {
         "_id": {
@@ -7863,7 +8689,9 @@
         "full_name": "Vasily Nikolaev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "3.8"
     },
     {
         "_id": {
@@ -7882,7 +8710,9 @@
         "full_name": "Yuy Chzhao",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -7901,7 +8731,9 @@
         "full_name": "Tomochka Konyushevskaya",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "30.5.1989"
     },
     {
         "_id": {
@@ -7920,7 +8752,9 @@
         "full_name": "Misha Prostyakov",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "27.3.1996"
     },
     {
         "_id": {
@@ -7939,7 +8773,9 @@
         "full_name": "Alisa Aryu",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7958,7 +8794,9 @@
         "full_name": "Bogdan Petruk",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "14.1"
     },
     {
         "_id": {
@@ -7977,7 +8815,9 @@
         "full_name": "Mark Vasilyev",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": null
     },
     {
         "_id": {
@@ -7996,7 +8836,9 @@
         "full_name": "Dasha Shuvalova",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": "25.6.1995"
     },
     {
         "_id": {
@@ -8015,7 +8857,9 @@
         "full_name": "Ksyusha Patoka",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 1,
+        "bdate": null
     },
     {
         "_id": {
@@ -8034,6 +8878,8 @@
         "full_name": "Artem Voronin",
         "year_downloaded": 2024,
         "month_downloaded": 9,
-        "day_downloaded": 28
+        "day_downloaded": 28,
+        "sex": 2,
+        "bdate": "31.8.1982"
     }
 ]
