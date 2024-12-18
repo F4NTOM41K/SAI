@@ -42,7 +42,8 @@ def main():
         # Отладочная информация
         if item.get('sex') or item.get('bdate'):
             print(
-                f"ID {item.get('id')}: Пол - {item.get('sex')}, День рождения - {item.get('bdate')}")
+                f"ID {item.get('id')}: Пол - {item.get('sex')},"
+                f" День рождения - {item.get('bdate')}")
 
     # Сохранение обработанных данных в новый файл
     print("Сохранение обработанных данных...")

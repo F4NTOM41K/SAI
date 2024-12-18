@@ -1,1 +1,3 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6d0fd3d2a2c64d84bbb3fed54bc97eb1","collectionName":"user_names","type":"collection"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:efb2e8f0ae2a928c624953269ddd9f91178324031b66bb636e14b516e51c9f46
+size 177
