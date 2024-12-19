@@ -33,20 +33,26 @@ def is_symbols(nickname):
     return any(not char.isalnum() and not char.isspace() for char in nickname)
 
 # Process each nickname and categorize it
+count = 0
 for user in data:
     nickname = user.get("nickname", "").strip()
     if not nickname:
         continue
     if is_numbers(nickname):
         categories["numbers"].append(nickname)
+        count+=1
     elif is_keywords(nickname):
         categories["keywords"].append(nickname)
+        count+=1
     elif is_patronymic(nickname):
         categories["patronymic"].append(nickname)
+        count+=1
     elif is_symbols(nickname):
         categories["symbols"].append(nickname)
+        count+=1
     elif is_single_word(nickname):
         categories["single_word"].append(nickname)
+        count+=1
     
 
 # Save the categorized nicknames into a JSON file
@@ -55,4 +61,4 @@ output_path = 'categorized_nicknames.json'
 with open(output_path, 'w', encoding='utf-8') as output_file:
     json.dump(categories, output_file, ensure_ascii=False, indent=4)
 
-output_path
+print(count)
