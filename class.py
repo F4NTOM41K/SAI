@@ -7,30 +7,27 @@ with open(file_path, 'r', encoding='utf-8') as file:
 
 # Categories based on the given rules
 categories = {
-    "numbers": [],
-    "keywords": [],
-    "single_word": [],
-    "patronymic": [],
-    "symbols": []
+    "frenonim": [],
+    "titlonim": [],
+    "etnonim": [],
+    "incognitonim": []
 }
 
 # Helper functions to classify nicknames
-def is_numbers(nickname):
+def is_frenonim(nickname):
     return any(char.isdigit() for char in nickname)
 
-def is_keywords(nickname):
+def is_titlonim(nickname):
     # Define a simple check for keywords (extendable)
     keywords = ["pro", "gamer", "master", "love", "boss", "night"]
     return any(keyword.lower() in nickname.lower() for keyword in keywords)
 
-def is_single_word(nickname):
+def is_etnonim(nickname):
     return len(nickname.split()) == 1
 
-def is_patronymic(nickname):
+def is_incognitonim(nickname):
     return nickname.lower().endswith(("ovich", "evich", "ovna", "ich"))
 
-def is_symbols(nickname):
-    return any(not char.isalnum() and not char.isspace() for char in nickname)
 
 # Process each nickname and categorize it
 count = 0
@@ -38,20 +35,17 @@ for user in data:
     nickname = user.get("nickname", "").strip()
     if not nickname:
         continue
-    if is_numbers(nickname):
-        categories["numbers"].append(nickname)
+    if is_frenonim(nickname):
+        categories["frenonim"].append(nickname)
         count+=1
-    elif is_keywords(nickname):
-        categories["keywords"].append(nickname)
+    elif is_titlonim(nickname):
+        categories["titlonim"].append(nickname)
         count+=1
-    elif is_patronymic(nickname):
-        categories["patronymic"].append(nickname)
+    elif is_etnonim(nickname):
+        categories["etnonim"].append(nickname)
         count+=1
-    elif is_symbols(nickname):
-        categories["symbols"].append(nickname)
-        count+=1
-    elif is_single_word(nickname):
-        categories["single_word"].append(nickname)
+    elif is_incognitonim(nickname):
+        categories["incognitonim"].append(nickname)
         count+=1
 
 
