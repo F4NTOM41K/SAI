@@ -15,6 +15,6 @@ def predict_category(nickname):
     return predicted_category
 
 # Пример использования
-example_nickname = "NIGHT BREAKER"
+example_nickname = "Cock"
 predicted = predict_category(example_nickname)
 print(f"Никнейм: {example_nickname}, Категория: {predicted}")
