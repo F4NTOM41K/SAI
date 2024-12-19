@@ -4,5 +4,6 @@ filtered_user_names.json
 data_analysis\__pycache__
 VDatabase
 users.json
+processed_user_names.json
 test_categorized_nicknames.json
 train_categorized_nicknames.json

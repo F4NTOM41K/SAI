@@ -20,7 +20,7 @@ def is_numbers(nickname):
 
 def is_keywords(nickname):
     # Define a simple check for keywords (extendable)
-    keywords = ["pro", "gamer", "master", "love", "boss"]
+    keywords = ["pro", "gamer", "master", "love", "boss", "night"]
     return any(keyword.lower() in nickname.lower() for keyword in keywords)
 
 def is_single_word(nickname):
@@ -53,7 +53,7 @@ for user in data:
     elif is_single_word(nickname):
         categories["single_word"].append(nickname)
         count+=1
-    
+
 
 # Save the categorized nicknames into a JSON file
 output_path = 'categorized_nicknames.json'
