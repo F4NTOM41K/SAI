@@ -15,7 +15,7 @@ categories = {
 
 # Helper functions to classify nicknames
 def is_frenonim(nickname):
-    return any(char.isdigit() for char in nickname)
+    return nickname
 
 def is_titlonim(nickname):
     # Define a simple check for keywords (extendable)
