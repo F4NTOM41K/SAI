@@ -1,0 +1,6 @@
+.idea
+categorized_nicknames.json
+filtered_user_names.json
+data_analysis\__pycache__
+VDatabase
+users.json
