@@ -7,3 +7,4 @@ users.json
 processed_user_names.json
 test_categorized_nicknames.json
 train_categorized_nicknames.json
+.venv
